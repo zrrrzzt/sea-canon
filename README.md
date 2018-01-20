@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/zrrrzzt/sea-canon.svg?branch=master)](https://travis-ci.org/zrrrzzt/sea-canon)
+[![Greenkeeper badge](https://badges.greenkeeper.io/zrrrzzt/gun-next-example.svg)](https://greenkeeper.io/)
+
 # sea-canon
 
 A temporary fix for [GUN/SEA](https://github.com/amark/gun) and browserify/webpack
