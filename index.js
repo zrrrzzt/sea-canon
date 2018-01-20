@@ -13,7 +13,7 @@
 
   /* THIS IS AN EARLY ALPHA!!! */
 
-  var Gun = (typeof window !== 'undefined' ? window : global).Gun || require('./gun');
+  var Gun = (typeof window !== 'undefined' ? window : global).Gun || require('gun/gun');
 
   var subtle, subtleossl, TextEncoder, TextDecoder, getRandomBytes;
   var sessionStorage, localStorage, indexedDB;
