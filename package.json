@@ -1,6 +1,6 @@
 {
   "name": "sea-canon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A temporary fix for GUN/SEA and browserify/webpack",
   "main": "index.js",
   "browser": "sea.min.js",
