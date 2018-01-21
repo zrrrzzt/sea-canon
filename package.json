@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A temporary fix for GUN/SEA and browserify/webpack",
   "main": "index.js",
-  "browser": "sea.js",
+  "browser": "sea.min.js",
   "scripts": {
     "test": "nsp check && ava",
     "test-offline": "ava",
