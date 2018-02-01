@@ -31,15 +31,15 @@
     "text-encoding": "0.6.4"
   },
   "devDependencies": {
-    "ava": "0.24.0",
+    "ava": "0.25.0",
     "coveralls": "3.0.0",
-    "gun": "0.9.9",
+    "gun": "0.9.91",
     "nsp": "3.1.0",
     "nyc": "11.4.1",
     "standard": "10.0.3"
   },
   "peerDependencies": {
-    "gun": "0.9.9"
+    "gun": "0.9.91"
   },
   "engines": {
     "node": ">=8.9.4"
