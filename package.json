@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "ava": "2.3.0",
-    "coveralls": "3.0.4",
+    "coveralls": "3.0.6",
     "gun": "0.2019.726",
     "nsp": "3.2.1",
     "nyc": "14.1.1",
