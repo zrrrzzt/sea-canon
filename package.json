@@ -31,7 +31,7 @@
     "text-encoding": "0.7.0"
   },
   "devDependencies": {
-    "ava": "3.1.0",
+    "ava": "3.2.0",
     "coveralls": "3.0.9",
     "gun": "0.2020.116",
     "nsp": "3.2.1",
