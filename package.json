@@ -33,13 +33,13 @@
   "devDependencies": {
     "ava": "3.5.2",
     "coveralls": "3.0.11",
-    "gun": "0.2020.301",
+    "gun": "0.2020.401",
     "nsp": "3.2.1",
     "nyc": "15.0.0",
     "standard": "14.3.3"
   },
   "peerDependencies": {
-    "gun": "0.2020.301"
+    "gun": "0.2020.401"
   },
   "engines": {
     "node": ">=8.9.4"
