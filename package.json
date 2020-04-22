@@ -39,7 +39,7 @@
     "standard": "14.3.3"
   },
   "peerDependencies": {
-    "gun": "0.2020.401"
+    "gun": "0.2020.421"
   },
   "engines": {
     "node": ">=8.9.4"
