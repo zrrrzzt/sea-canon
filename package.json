@@ -36,7 +36,7 @@
     "gun": "0.2020.430",
     "nsp": "3.2.1",
     "nyc": "15.0.1",
-    "standard": "14.3.3"
+    "standard": "14.3.4"
   },
   "peerDependencies": {
     "gun": "0.2020.430"
