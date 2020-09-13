@@ -27,7 +27,7 @@
     "@trust/webcrypto": "0.9.2",
     "fake-indexeddb": "3.1.2",
     "node-localstorage": "2.1.6",
-    "node-webcrypto-ossl": "2.1.1",
+    "node-webcrypto-ossl": "2.1.2",
     "text-encoding": "0.7.0"
   },
   "devDependencies": {
