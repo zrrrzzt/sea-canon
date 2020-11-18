@@ -36,7 +36,7 @@
     "gun": "0.2020.520",
     "nsp": "3.2.1",
     "nyc": "15.1.0",
-    "standard": "16.0.2"
+    "standard": "16.0.3"
   },
   "peerDependencies": {
     "gun": "0.2020.520"
